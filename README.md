@@ -50,7 +50,7 @@ Januar 2020 – Dezember 2022
 
 - Türkisch: Sehr gut  
 - Kurmanci: Gut  
-- Deutsch: B2 (Kurs läuft)
+- Deutsch: B2
 
 ---
 
