@@ -36,7 +36,7 @@ Januar 2020 – Dezember 2022
 ## 💡 Fähigkeiten
 
 - Schriftliche Kommunikation  
-- Digitale Medien (Adobe- und Microsoft-Programme)
+- Digitale Medien (Adobe Photoshop, Premiere und Microsoft-Programme)
 
 ---
 
