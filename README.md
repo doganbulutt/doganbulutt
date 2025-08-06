@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Doğan Bulut 
+✉️ dogan.bulutt@hotmail.com  
 
-<!--
-**doganbulutt/doganbulutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Ausbildung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mustafa Kemal Universität**, Hatay  
+Fachbereich Presse und Verlagswesen – *Ehrenurkunde*  
+
+**Ege Universität**, Izmir  
+Fakultät für Kommunikation, Journalismus – *Ehrenurkunde*  
+
+---
+
+## 💼 Berufserfahrung
+
+**Sözsöz Zeitung** – Izmir  
+*Reporter, Redakteur, Web-TV-Manager*  
+Januar 2018 – Dezember 2020  
+
+**Presseberater für einen Abgeordneten** – Izmir  
+*Presseberater*  
+Januar 2020 – Dezember 2022  
+
+---
+
+## 🤝 Freiwilligenarbeit
+
+**Halkların Demokratik Köprüsü Derneği** – Izmir  
+*Freiwilliger Mitarbeiter*  
+2021 – 2022  
+
+---
+
+## 💡 Fähigkeiten
+
+- Schriftliche Kommunikation  
+- Digitale Medien (Adobe- und Microsoft-Programme)
+
+---
+
+## 📜 Zertifikate
+
+- Zertifikat für Journalismus der neuen Generation
+
+---
+
+## 🌍 Sprachkenntnisse
+
+- Türkisch: Sehr gut  
+- Kurmanci: Gut  
+- Deutsch: B2 (Kurs läuft)
+
+---
+
+## 🎯 Interessen
+
+- Bücher lesen, Filme schauen, Fotografie  
+- Tischtennis, Fußball, Basketball
